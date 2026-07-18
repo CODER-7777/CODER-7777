@@ -5,9 +5,9 @@
 </div>
 
 <!--Intro start-->
--  Undergraduate Student at IIT Kanpur
--  Team Head, Aerial Robotics | Passionate about Drones, AI, Machine Learning, Robotics, Systems
--  Reach out at: vivekanandamansoju@gmail.com
+- 🎓 Undergraduate Student at IIT Kanpur
+- 🤖 Team Head, Aerial Robotics | Passionate about Drones, AI, Machine Learning, Robotics, Systems
+- 📫 Reach out at: vivekanandamansoju@gmail.com
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -23,7 +23,7 @@
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=fortran,linker%20script,assembly,tex"/>
 
 </td>
 </tr>
