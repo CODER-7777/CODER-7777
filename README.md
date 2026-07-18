@@ -1,31 +1,49 @@
-## Hi 👋, I'm Vivekananda
-
--  **Undergraduate Student at IIT Kanpur**
--  **Team Head, Aerial Robotics | Passionate about Drones, AI, Machine Learning , Robotics, Systems**
--  Reach out at: **vivekanandamansoju@gmail.com**
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CODER-7777&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=true" width="48%" />
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Vivekananda</h1></summary>
+  </ul>
 </div>
 
-<div align="center">
+<!--Intro start-->
+-  Undergraduate Student at IIT Kanpur
+-  Team Head, Aerial Robotics | Passionate about Drones, AI, Machine Learning, Robotics, Systems
+-  Gold Medalist — Inter-IIT Tech Meet 14.0 | Global Rank 6 — ICUAS 2026
+-  Reach out at: vivekanandamansoju@gmail.com
+<!--Intro end-->
 
-<img src="https://streak-stats.demolab.com/?user=CODER-7777&theme=dark&hide_border=true" width="60%" />
+<!--- stats & Trophy (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CODER-7777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br></br>
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=CODER-7777&theme=dark&hide_border=false" />
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+</tr>
+</table>
+</p>
+
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
 
----
+<p align="center">
+<a href="https://www.linkedin.com/in/m-vivekananda-77b922284/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://github.com/CODER-7777" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="github" height="50" width="50" /></a>
+<a href="https://home.iitk.ac.in/~mvivek24/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="35" /></a>
+</p>
 
-## 🔗 Connect With Me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CODER-7777)
-
-![Profile Views](https://komarev.com/ghpvc/?username=CODER-7777&color=blue&style=flat-square)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CODER-7777&label=Profile%20views&color=0e75b6&style=flat" alt="CODER-7777" />
+</div>
