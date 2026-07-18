@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Vivekananda
 
 -  **Undergraduate Student at IIT Kanpur**
--  **Team Head, Aerial Robotics | Passionate about Robotics, Systems & Quant**
+-  **Team Head, Aerial Robotics | Passionate about Drones,Robotics, Systems & Quant**
 
 - 📫 Reach out at: **vivekanandamansoju@gmail.com**
 
