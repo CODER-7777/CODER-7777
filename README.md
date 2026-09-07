@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vivekananda</h1></summary>
+    <summary><h1 style="display: inline-block">Hi , I'm Vivekananda</h1></summary>
   </ul>
 </div>
 
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h2>🌟 <b><a href="https://github.com/CODER-7777/Personal-Hub" target="_blank">Click here to check out my new App!</a></b> 🌟</h2>
+  <h2> <b><a href="https://github.com/CODER-7777/Personal-Hub" target="_blank">Click here to check out my new App!</a></b> </h2>
   <p><i>Personal Hub is a cross-platform, AI-powered productivity suite designed for individuals who demand a fast, beautiful, and fully-featured digital workspace. Built in 2026, it merges aesthetics and functionality to offer an unparalleled user experience, running seamlessly on Android, Desktop (Linux/Windows/macOS), and the Web.</i></p>
 </div>
 
