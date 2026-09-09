@@ -7,6 +7,7 @@
 <!--Intro start-->
 -  Undergraduate Student at IIT Kanpur
 -  Team Head, Aerial Robotics IIT Kanpur | Passionate about Drones, AI, Machine Learning, Robotics, Systems
+-  Outside of that, I enjoy creating 3D animations in Blender
 -  Reach out at: vivekanandamansoju@gmail.com | mvivek24@iitk.ac.in
 <!--Intro end-->
 
