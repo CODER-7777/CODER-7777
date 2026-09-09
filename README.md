@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/m-vivekananda-77b922284/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/CODER-7777" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="github" height="50" width="50" /></a>
+<!-- <a href="https://github.com/CODER-7777" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="github" height="50" width="50" /></a> -->
 <a href="https://home.iitk.ac.in/~mvivek24/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="35" /></a>
 </p>
 
