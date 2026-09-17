@@ -4,6 +4,12 @@
   </ul>
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems;Robotics;Drones;VLMs;ML&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--Intro start-->
 -  Undergraduate Student at IIT Kanpur
 -  Team Head, Aerial Robotics IIT Kanpur | Passionate about Drones, AI, Machine Learning, Robotics, Systems
