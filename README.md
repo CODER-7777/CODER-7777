@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems;Robotics;Drones;VLMs;ML&font=Fira+Code&center=true&width=500&height=50&color=0047AB&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems;Robotics;Drones,Webdev;VLMs;ML&font=Fira+Code&center=true&width=500&height=50&color=0047AB&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <!--Intro start-->
 -  Undergraduate Student at IIT Kanpur
--  Team Head, Aerial Robotics IIT Kanpur | Passionate about Drones, AI, Machine Learning, Robotics, Systems
+-  Team Head, Aerial Robotics IIT Kanpur | Passionate about Drones, AI, Machine Learning, Robotics, Systems, WebDev
 -  Outside of that, I enjoy creating 3D animations in Blender
 -  Reach out at: vivekanandamansoju@gmail.com | mvivek24@iitk.ac.in
 <!--Intro end-->
@@ -36,7 +36,7 @@
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me </h2></summary>
   </ul>
 </div>
 
