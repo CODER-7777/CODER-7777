@@ -23,7 +23,7 @@
   <img src="https://streak-stats.demolab.com/?user=CODER-7777&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=fortran,linker%20script,assembly,tex,jupyter%20notebook"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CODER-7777&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=fortran,linker%20script,assembly,tex,jupyter%20notebook"/>
 </td>
 </tr>
 </table>
